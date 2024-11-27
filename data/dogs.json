@@ -2,5 +2,6 @@
     { "name": "Rottweiler", "size": "2 ft", "location": "Germany", "image": "/IITBJS/images/Rottweiler.jpeg" },
     { "name": "German Shepherd", "size": "2 ft", "location": "Germany", "image": "/IITBJS/images/German Shepherd.jpeg" },
     { "name": "Labrador", "size": "2 ft", "location": "UK", "image": "/IITBJS/images/Labrador.jpeg" },
+    { "name": "Alabai", "size": "4 ft", "location": "Turkey", "image": "/IITBJS/images/Alabai.jpeg" },
     { "name": "Alabai", "size": "4 ft", "location": "Turkey", "image": "/IITBJS/images/Alabai.jpeg" }
 ]
