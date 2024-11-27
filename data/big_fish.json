@@ -1,6 +1,6 @@
 [
-    { "name": "Humpback Whale", "size": "15 ft", "location": "Atlantic Ocean", "image": "/images/Humpback Whale.jpeg" },
-    { "name": "Killer Whale", "size": "12 ft", "location": "Atlantic Ocean", "image": "/images/Killer Whale.jpeg" },
-    { "name": "Tiger Shark", "size": "8 ft", "location": "Ocean", "image": "/images/Tiger Shark.jpeg" },
-    { "name": "Hammerhead Shark", "size": "8 ft", "location": "Ocean", "image": "/images/Hammerhead Shark.jpeg" }
+    { "name": "Humpback Whale", "size": "15 ft", "location": "Atlantic Ocean", "image": "/IITBJS/images/Humpback Whale.jpeg" },
+    { "name": "Killer Whale", "size": "12 ft", "location": "Atlantic Ocean", "image": "/IITBJS/images/Killer Whale.jpeg" },
+    { "name": "Tiger Shark", "size": "8 ft", "location": "Ocean", "image": "/IITBJS/images/Tiger Shark.jpeg" },
+    { "name": "Hammerhead Shark", "size": "8 ft", "location": "Ocean", "image": "/IITBJS/images/Hammerhead Shark.jpeg" }
 ]
