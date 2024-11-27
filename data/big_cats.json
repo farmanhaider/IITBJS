@@ -1,0 +1,7 @@
+[
+    { "name": "Tiger", "size": "10 ft", "location": "Asia", "image": "/images/download (3).jpeg" },
+    { "name": "Lion", "size": "8 ft", "location": "Africa", "image": "/images/lion.jpeg" },
+    { "name": "Leopard", "size": "5 ft", "location": "Africa and Asia", "image": "/images/cheetah.jpeg" },
+    { "name": "Caracal", "size": "3 ft", "location": "Africa", "image": "/images/Caracal.jpeg" },
+    { "name": "Jaguar", "size": "5 ft", "location": "Amazon", "image": "/images/Jaguar.jpeg" }
+]
