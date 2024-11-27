@@ -1,10 +1,10 @@
-Animal Table Application
-Overview
+#Animal Table Application
+#Overview
 The Animal Table Application is a web-based tool designed to manage and display information about various animal species. It allows users to view, add, edit, and delete entries of animals, along with sorting functionality on columns like name, size, and location.
 
 This application focuses on flexibility, ease of use, and performance, enabling the dynamic handling of different animal datasets with a modular and reusable structure. It can easily be adapted to support additional species and data fields in the future.
 
-Design Goals
+#Design Goals
 
 1. Dynamic and Flexible Data Representation
    The application can display different species (like dogs, cats, or fish) using a single, reusable table structure. The data can be fetched from various sources without requiring code changes.
